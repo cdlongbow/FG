@@ -51,6 +51,14 @@
             "filterable": 1,
             "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
         },
+        {
+            "key":"360_spider",
+            "name":"🐬360影视",
+             "api":"csp_SP360","type":3,
+             "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
             {"key": "csp_Kugou",
 "name": "🐬酷狗音乐",
 "type": 3,
@@ -242,13 +250,6 @@
       ]
     }
   ],
-  "doh":[
-{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-{"name":"4K智家","type":1,"url":"http://125.208.23.251:1314/lunxun/?url="},
-{"name":"星睿⚡4K","type":1,"url":"http://sspa8.top:8100/api/?cat_ext=eyJmbGFnIjpbInFxIiwi6IW+6K6vIiwicWl5aSIsIueIseWlh+iJuiIsIuWlh+iJuiIsInlvdWt1Iiwi5LyY6YW3Iiwic29odSIsIuaQnOeLkCIsImxldHYiLCLkuZDop4YiLCJtZ3R2Iiwi6IqS5p6cIiwidG5tYiIsInNldmVuIiwiYmlsaWJpbGkiLCIxOTA1Il0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuOS4xIn19&key=星睿4k&url="},
-{"name":"HD⚡腾讯解析","type":1,"url":"http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="},
-{"name":"4k芒果⚡专解","type":1,"url":"http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="}
-],
 "lives": [
         {
             "name": "🐬iptvpro",
