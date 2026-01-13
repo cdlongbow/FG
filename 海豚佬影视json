@@ -20,15 +20,11 @@
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
         },
-        {"key": "txsp",
-        "name": "🐬腾讯视频｜追剧",
-        "type": 3,
-        "api": "MJS_txsp"       ,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=txsp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
+       {"key":"腾讯视频",
+       "name":"🐬腾讯视频｜追剧",
+       "type":3,
+       "api":"https://gitee.com/lieyuyun/contend-for-the-throne/raw/master/lib/drpy2.min.js",
+       "ext":"https://gitee.com/lieyuyun/contend-for-the-throne/raw/master/lib/腾讯视频.jpg"
         },
         {"key": "mgsp",
         "name": "🐬芒果视频｜追剧",
