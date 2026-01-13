@@ -348,16 +348,6 @@
       }
     },
     {
-      "name": "极速",
-      "type": 0,
-      "url": "https://jiexi.789jiexi.net:4433/?url=",
-      "ext": {
-      "header": {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
       "group": "软解码",
       "options": [
         {
