@@ -139,54 +139,6 @@
         },
 {"name":"🐬小苹果🍎｜追剧","key":"小苹果丨影视","type":3,"api":"csp_XpgAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐬厂长🏭｜追剧","key":"厂长丨影视","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
-	{
-      "key": "NanGua",
-      "name": "🎃南瓜┃影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "🦀皮皮虾┃网盘",
-      "type": 3,
-      "api": "csp_Ppxzy",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "./lib/PG推送.json$$$https://ppxzy.net/$$$null$$$1",
-      "timeout": 30
-    },
-    {
-      "key": "櫻花动漫",
-      "name": "🌸櫻花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "changeable": 0,
-      "searchable": 1
-    },
-    {
-      "key": "利播影视",
-      "name": "⭐利播┃网盘",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/libvio.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 30
-    },
-    {
-      "key": "团长影视",
-      "name": "🍡团长┃网盘",
-      "type": 3,
-      "api": "csp_TZFile",
-      "ext": "./lib/PG推送$$$null$$$1",
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 30
-    },
         {
 			"key": "muou",
 			"name": "🐬木偶4K｜追剧",
@@ -387,6 +339,16 @@
          }
        }
      },
+        {
+            "name": "夏夜4k",
+            "type": 1,
+            "url": "http://8.155.50.80/xiayexk.php?url=",
+            "ext": {
+            "header": {
+            "User-Agent": "okhttp/4.9.1"
+         }
+       }
+    },
     {
       "group": "软解码",
       "options": [
