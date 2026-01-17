@@ -615,13 +615,11 @@
             "ua": "okhttp/5.3.2",
             "url": "http://ezc.xtvantsc.xyz/litv.php"
         },
-        {
-            "name": "🐬YouTubeLive(梯子)",
-            "ua": "okhttp/3.0",
-            "playerType": 2,
-            "url": "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt ",
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+         {
+            "name": "🐬jackTV",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
             "name": "🐬港台大陆频道",
