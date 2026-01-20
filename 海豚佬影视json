@@ -59,15 +59,6 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {
-            "key": "qnwPHP",
-            "name": "🐬全能王PHP",
-            "type": 4,
-            "api": "http://127.0.0.1:9980/全能王终端兼容修复版.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
 			"key": "爱瓜TV",
 			"name": "🐬爱瓜TV｜追剧",
 			"type": 4,
