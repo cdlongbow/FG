@@ -176,7 +176,7 @@
 "playerType": 2,
 "ext": {"classes": [{"type_name": "酷狗",
 "type_id": "kugou"}]}}, 
-    {
+        {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
 			"type": 3,
@@ -189,6 +189,12 @@
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
         {
+			"key": "枫叶音乐",
+			"name": "🐬枫叶｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/枫叶音乐.py"
+		},
+         {
              "key": "hipy_js_酷我听书[听]",
              "name": "🐬酷我听书｜听书",
               "type": 3,
