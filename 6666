@@ -12,7 +12,7 @@
             "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
         },
       {"key":"Nostr","name":"🍅┃Nostr┃推荐","type":3,"api":"csp_Nostr","homePage":"./html/nostr.html"},
-{"key":"FY","name":"🏄‍♂️┃枫叶┃影视","type":3,"api":"csp_fwngye","homePage":"./html/枫叶影院.html"},
+{"key":"FY","name":"🏄‍♂️┃枫叶┃影视","type":3,"api":"csp_fwngye","homePage":"./html/枫叶.html"},
 {"key":"CZ","name":"👨‍🏭┃厂长┃资源","type":3,"api":"csp_cz","homePage":"./html/厂长.html"},
 {"key":"WB","name":"🪶┃歪比┃巴卜","type":3,"api":"csp_wb","homePage":"./html/歪比.html"},
 {"key":"TV52","name":"📺┃52TV┃体育","type":3,"api":"csp_52tv","homePage":"./html/52tv.html"},
