@@ -107,12 +107,6 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/奇优影院.py"
 		},
 		{
-			"key": "UVOD",
-			"name": "🐬优视频.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优视频.py"
-		},
-		{
           "key": "MH",
           "name": "🐬麻花影视.py",
           "type": 3,
