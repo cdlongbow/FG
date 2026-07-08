@@ -81,7 +81,7 @@ class Spider(Spider):
                 "vod_id": name,
                 "vod_name": f"{flag}{name}",
                 "vod_pic": f"https://img.doppiocdn.net/thumbs/{stamp}/{id}",
-                "vod_remarks": remark
+                "vod_remarks": "购票表演中" if vod['groupShowType'] else ""
             })
         total = int(rsp['filteredCount'])
         result = {}
@@ -178,7 +178,7 @@ class Spider(Spider):
                 proxy_url = f"{self.getProxyUrl()}&url={quote(full_url)}"
                 # 将画质和URL添加到列表中
                 url.append(qn)
-                url.append(proxy_url)
+                url.append(full_url)
         result = {}
         result["url"] = url
         result["parse"] = '0'
